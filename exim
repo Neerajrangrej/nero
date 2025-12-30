@@ -1,0 +1,7 @@
+senior-exim/
+│
+├── index.html        (Home)
+├── about.html        (About Us)
+├── products.html     (Products)
+├── contact.html      (Contact)
+├── style.css         (Main stylesheet)
